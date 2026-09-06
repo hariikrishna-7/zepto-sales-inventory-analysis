@@ -80,6 +80,30 @@ Used CTEs and window functions to:
 - Compare cumulative sales revenue with current inventory value
 - Identify products where sales revenue exceeds current inventory value
 
+## Key Insights
+
+Based on the SQL analysis:
+
+- Paan Corner generated the highest category revenue at 16,294, followed
+  closely by Personal Care at 16,206.
+
+- Fruits & Vegetables generated the lowest category revenue at 500 in the
+  analyzed sales data.
+
+- MTR Upma and Popular Essentials Sona Masouri Raw Rice were the
+  highest-selling products by units, with 9 units sold each.
+
+- Multiple products had no recorded sales transactions, indicating products
+  that may require further investigation from an inventory or sales
+  perspective.
+
+- No products met the defined criteria for potential overstock
+  (more than 50 units available and fewer than 10 units sold).
+
+- RANK() was used to identify the highest-selling product within each
+  category while preserving ties between products with the same sales
+  volume.
+
 ## Dataset
 
 The project contains two datasets:

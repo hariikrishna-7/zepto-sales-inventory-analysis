@@ -48,8 +48,8 @@ order by count(sku_id) desc;
  -- ========================================================= --
  
 -- products with price as 0 --
- select * from zepto where mrp = 0 or discounted_selling_price = 0;
-delete from zepto where mrp = 0 or discounted_selling_price = 0;
+select * from zepto where mrp = 0 or discounted_selling_price = 0;
+-- delete from zepto where mrp = 0 or discounted_selling_price = 0;
 
 -- setting all the product price from 2500 to 25.00 rupees -- 
 update zepto 
@@ -164,7 +164,9 @@ where z.sku_id is null;
 -- delete from sales where sku_id = 3730 or sku_id = 3731;
 -- describe zepto ;
 -- describe sales;
--- alter table sales modify column sku_id bigint unsigned not null;
+
+-- changing the data type of sku_id to match the original --
+alter table sales modify column sku_id bigint unsigned not null;
 
 -- creating foreign key --
 alter table sales 

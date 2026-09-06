@@ -86,7 +86,8 @@ order by discount_percentage, discounted_selling_price desc;
 -- displaying top 10 categories of product with highest avg discounts offered and highest Price redutction --
 select category, avg(discount_percentage) as avg_discount, sum(mrp - discounted_selling_price) as Total_Discounts from zepto
 group by category
-order by avg(discount_percentage) desc, sum(mrp - discounted_selling_price) desc;
+order by avg(discount_percentage) desc, sum(mrp - discounted_selling_price) desc
+ limit 10;
 
 -- display the price per gram for products above 100g and sort by best value --
 select distinct 

@@ -104,6 +104,23 @@ Based on the SQL analysis:
   category while preserving ties between products with the same sales
   volume.
 
+## Query Results
+
+### Revenue by Category
+
+![Revenue by Category](Query_Results/revenue_by_category.png)
+
+### Top Selling Products
+
+![Top Selling Products](Query_Results/top_selling_products.png)
+
+### Highest-Selling Product by Category
+
+![Highest-Selling Product by Category](Query_Results/highest_sale_category.png)
+
+### Products With No Recorded Sales
+
+![Products With No Recorded Sales](Query_Results/products_never_sold.png)
 ## Dataset
 
 The project contains two datasets:

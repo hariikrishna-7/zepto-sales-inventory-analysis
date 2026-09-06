@@ -222,7 +222,7 @@ Cooking Essentials,Top Ramen Chicken Noodles,6000,10,1,5400,280,FALSE,280
 Cooking Essentials,Everest Chaat Masala,3500,2,1,3400,50,FALSE,50
 Cooking Essentials,Keya Wonder Red Hot Chilli Flakes,8900,10,2,8000,40,FALSE,40
 Cooking Essentials,Popular Essentials White Peas (Un-Polished),8000,10,5,7200,500,FALSE,500
-Cooking Essentials,Ching’s Secret Chowmein Hakka Noodles Masala ,4400,0,2,4400,60,FALSE,60
+Cooking Essentials,ChingÂ’s Secret Chowmein Hakka Noodles Masala ,4400,0,2,4400,60,FALSE,60
 Cooking Essentials,Dhara Filtered Groundnut Oil (Jar),105000,1,6,103500,5000,FALSE,5
 Cooking Essentials,Pillsbury Choco Chip Pancake Mix,9900,5,6,9400,165,FALSE,165
 Cooking Essentials,Hershey's Caramel Syrup,23000,0,1,23000,623,FALSE,623
@@ -736,7 +736,7 @@ Munchies,Top Ramen Chicken Noodles,6000,10,1,5400,280,FALSE,280
 Munchies,Everest Chaat Masala,3500,2,1,3400,50,FALSE,50
 Munchies,Keya Wonder Red Hot Chilli Flakes,8900,10,2,8000,40,FALSE,40
 Munchies,Popular Essentials White Peas (Un-Polished),8000,10,5,7200,500,FALSE,500
-Munchies,Ching’s Secret Chowmein Hakka Noodles Masala ,4400,0,2,4400,60,FALSE,60
+Munchies,ChingÂ’s Secret Chowmein Hakka Noodles Masala ,4400,0,2,4400,60,FALSE,60
 Munchies,Dhara Filtered Groundnut Oil (Jar),105000,1,6,103500,5000,FALSE,5
 Munchies,Pillsbury Choco Chip Pancake Mix,9900,5,6,9400,165,FALSE,165
 Munchies,Hershey's Caramel Syrup,23000,0,1,23000,623,FALSE,623
@@ -1387,7 +1387,7 @@ Packaged Food,McCain Smiles Cripsy Happy Potatoes,12000,5,6,11400,415,FALSE,415
 Packaged Food,McCain Veggie Burger Patty,11500,3,6,11100,360,FALSE,360
 Packaged Food,McCain Veggie Fingers,11700,5,6,11100,400,FALSE,400
 Packaged Food,Amul Delicious Fat Spread - Cholesterol Free,1800,5,6,1700,100,FALSE,100
-Packaged Food,Whiskas Wet  Meal (Adult - Cat Food)  Chicken in Gravy,3500,2,2,3400,85,FALSE,85
+Packaged Food,Whiskas WetÂ  Meal (Adult - Cat Food)Â  Chicken in Gravy,3500,2,2,3400,85,FALSE,85
 Packaged Food,McCain Chilli Garlic Potato Bites Crunchy Potato Nuggets,12500,5,1,11800,420,FALSE,420
 Packaged Food,Ching's Secret Instant Hot Garlic Noodles,1500,0,3,1500,60,FALSE,60
 Packaged Food,Veeba Eggless Mayonnaise,7900,11,5,7000,250,FALSE,250
@@ -1417,7 +1417,7 @@ Packaged Food,Amul Cheese Spread Creamy,8500,5,6,8000,180,FALSE,180
 Packaged Food,Maggi Imli Sauce Pichkoo,2200,0,6,2200,90,FALSE,90
 Packaged Food,Whiskas Kitten (2-12 months) Dry Cat Food Food Ocean Fish,38500,9,5,34700,1100,FALSE,1100
 Packaged Food,Chings Instant Soup - Sweet Corn Veg,1000,0,2,1000,15,FALSE,15
-Packaged Food,Whiskas Wet  Meal (Kitten - Cat Food)  Chicken in Gravy,3500,5,2,3300,85,FALSE,85
+Packaged Food,Whiskas WetÂ  Meal (Kitten - Cat Food)Â  Chicken in Gravy,3500,5,2,3300,85,FALSE,85
 Packaged Food,McCain Crazy Fries Masala MixHot 'n' Tangy,12000,5,6,11400,400,FALSE,400
 Packaged Food,The Whole Truth Double Cocoa Protein Bar No Sugar,10000,10,6,9000,52,FALSE,52
 Packaged Food,Amul Happy Treats French Fries,6800,4,1,6500,425,FALSE,425
@@ -1445,7 +1445,7 @@ Packaged Food,Sunfeast YiPPee! Noodles - Magic Masala,9600,5,4,9100,540,FALSE,54
 Packaged Food,Chef's Basket Durum Wheat Fusilli Pasta,16000,50,6,8000,500,FALSE,500
 Packaged Food,Top Ramen Chicken Noodles,6000,10,1,5400,280,FALSE,280
 Packaged Food,Veeba Cheese and Chilli Sandwich Spread,8900,11,6,7900,275,FALSE,275
-Packaged Food,Ching’s Secret Chowmein Hakka Noodles Masala ,4400,0,2,4400,60,FALSE,60
+Packaged Food,ChingÂ’s Secret Chowmein Hakka Noodles Masala ,4400,0,2,4400,60,FALSE,60
 Packaged Food,Safal Frozen - Mixed Vegetables,11000,4,2,10500,1000,FALSE,1
 Packaged Food,MTR 3 Min Poha,2500,0,6,2500,60,FALSE,60
 Packaged Food,Ching's Manchurian Instant Noodles,1500,0,5,1500,60,FALSE,60
@@ -1530,7 +1530,7 @@ Packaged Food,Godrej Yummiez Chilli Chicken Sausages ,16000,10,3,14400,250,FALSE
 Packaged Food,Pedigree Dentastix  Dog Treat Oral Care for Adult Medium Breed ,17500,20,6,14000,180,FALSE,180
 Packaged Food,Maggi Hot & Sweet - Tomato Chilli Sauce,17000,10,1,15300,1000,FALSE,1
 Packaged Food,Ching's Secret Asian Hot Instant Soup,1500,0,3,1500,15,FALSE,15
-Packaged Food,Kellogg’s Chocos Protein And Fibre Of 1 Roti,49900,11,6,44400,1200,FALSE,1
+Packaged Food,KelloggÂ’s Chocos Protein And Fibre Of 1 Roti,49900,11,6,44400,1200,FALSE,1
 Packaged Food,Mother's Recipe Pickle - Mango,14900,26,4,10900,500,FALSE,500
 Packaged Food,Chings Secret Manchurian Instant Noodle,6000,0,6,6000,240,FALSE,240
 Packaged Food,Kellogg's Original Corn Flakes,31000,6,6,29000,875,FALSE,875
@@ -1698,7 +1698,7 @@ Packaged Food,Yummiez Veg Cheese Fingers Pouch,23000,0,4,23000,400,FALSE,400
 Packaged Food,MTR Dal Makhani,11000,0,4,11000,300,FALSE,300
 Packaged Food,MTR Ready to Eat Pav Bhaji,11000,0,6,11000,300,FALSE,300
 Packaged Food,Weikfield Tomato Salsa Instant Pasta,2500,0,1,2500,77,FALSE,77
-Packaged Food,Nestlé CERELAC Baby Cereal with Milk,27200,0,1,27200,300,FALSE,300
+Packaged Food,NestlÃ© CERELAC Baby Cereal with Milk,27200,0,1,27200,300,FALSE,300
 Packaged Food,Remia Salad Caesar Dressing,25000,0,6,25000,250,FALSE,250
 Packaged Food,Bagrrys Fruit N Fibre Muesli Mixed Fruit,33000,0,6,33000,500,FALSE,500
 Packaged Food,MTR Paneer Butter Masala & Veg Pulao,17500,9,4,15800,375,FALSE,375
@@ -1775,7 +1775,7 @@ Ice Cream & Desserts,McCain Smiles Cripsy Happy Potatoes,12000,5,6,11400,415,FAL
 Ice Cream & Desserts,McCain Veggie Burger Patty,11500,3,6,11100,360,FALSE,360
 Ice Cream & Desserts,McCain Veggie Fingers,11700,5,6,11100,400,FALSE,400
 Ice Cream & Desserts,Amul Delicious Fat Spread - Cholesterol Free,1800,5,6,1700,100,FALSE,100
-Ice Cream & Desserts,Whiskas Wet  Meal (Adult - Cat Food)  Chicken in Gravy,3500,2,2,3400,85,FALSE,85
+Ice Cream & Desserts,Whiskas WetÂ  Meal (Adult - Cat Food)Â  Chicken in Gravy,3500,2,2,3400,85,FALSE,85
 Ice Cream & Desserts,McCain Chilli Garlic Potato Bites Crunchy Potato Nuggets,12500,5,1,11800,420,FALSE,420
 Ice Cream & Desserts,Ching's Secret Instant Hot Garlic Noodles,1500,0,3,1500,60,FALSE,60
 Ice Cream & Desserts,Veeba Eggless Mayonnaise,7900,11,5,7000,250,FALSE,250
@@ -1805,7 +1805,7 @@ Ice Cream & Desserts,Amul Cheese Spread Creamy,8500,5,6,8000,180,FALSE,180
 Ice Cream & Desserts,Maggi Imli Sauce Pichkoo,2200,0,6,2200,90,FALSE,90
 Ice Cream & Desserts,Whiskas Kitten (2-12 months) Dry Cat Food Food Ocean Fish,38500,9,5,34700,1100,FALSE,1100
 Ice Cream & Desserts,Chings Instant Soup - Sweet Corn Veg,1000,0,2,1000,15,FALSE,15
-Ice Cream & Desserts,Whiskas Wet  Meal (Kitten - Cat Food)  Chicken in Gravy,3500,5,2,3300,85,FALSE,85
+Ice Cream & Desserts,Whiskas WetÂ  Meal (Kitten - Cat Food)Â  Chicken in Gravy,3500,5,2,3300,85,FALSE,85
 Ice Cream & Desserts,McCain Crazy Fries Masala MixHot 'n' Tangy,12000,5,6,11400,400,FALSE,400
 Ice Cream & Desserts,The Whole Truth Double Cocoa Protein Bar No Sugar,10000,10,6,9000,52,FALSE,52
 Ice Cream & Desserts,Amul Happy Treats French Fries,6800,4,1,6500,425,FALSE,425
@@ -1833,7 +1833,7 @@ Ice Cream & Desserts,Sunfeast YiPPee! Noodles - Magic Masala,9600,5,4,9100,540,F
 Ice Cream & Desserts,Chef's Basket Durum Wheat Fusilli Pasta,16000,50,6,8000,500,FALSE,500
 Ice Cream & Desserts,Top Ramen Chicken Noodles,6000,10,1,5400,280,FALSE,280
 Ice Cream & Desserts,Veeba Cheese and Chilli Sandwich Spread,8900,11,6,7900,275,FALSE,275
-Ice Cream & Desserts,Ching’s Secret Chowmein Hakka Noodles Masala ,4400,0,2,4400,60,FALSE,60
+Ice Cream & Desserts,ChingÂ’s Secret Chowmein Hakka Noodles Masala ,4400,0,2,4400,60,FALSE,60
 Ice Cream & Desserts,Safal Frozen - Mixed Vegetables,11000,4,2,10500,1000,FALSE,1
 Ice Cream & Desserts,MTR 3 Min Poha,2500,0,6,2500,60,FALSE,60
 Ice Cream & Desserts,Ching's Manchurian Instant Noodles,1500,0,5,1500,60,FALSE,60
@@ -1918,7 +1918,7 @@ Ice Cream & Desserts,Godrej Yummiez Chilli Chicken Sausages ,16000,10,3,14400,25
 Ice Cream & Desserts,Pedigree Dentastix  Dog Treat Oral Care for Adult Medium Breed ,17500,20,6,14000,180,FALSE,180
 Ice Cream & Desserts,Maggi Hot & Sweet - Tomato Chilli Sauce,17000,10,1,15300,1000,FALSE,1
 Ice Cream & Desserts,Ching's Secret Asian Hot Instant Soup,1500,0,3,1500,15,FALSE,15
-Ice Cream & Desserts,Kellogg’s Chocos Protein And Fibre Of 1 Roti,49900,11,6,44400,1200,FALSE,1
+Ice Cream & Desserts,KelloggÂ’s Chocos Protein And Fibre Of 1 Roti,49900,11,6,44400,1200,FALSE,1
 Ice Cream & Desserts,Mother's Recipe Pickle - Mango,14900,26,4,10900,500,FALSE,500
 Ice Cream & Desserts,Chings Secret Manchurian Instant Noodle,6000,0,6,6000,240,FALSE,240
 Ice Cream & Desserts,Kellogg's Original Corn Flakes,31000,6,6,29000,875,FALSE,875
@@ -2086,7 +2086,7 @@ Ice Cream & Desserts,Yummiez Veg Cheese Fingers Pouch,23000,0,4,23000,400,FALSE,
 Ice Cream & Desserts,MTR Dal Makhani,11000,0,4,11000,300,FALSE,300
 Ice Cream & Desserts,MTR Ready to Eat Pav Bhaji,11000,0,6,11000,300,FALSE,300
 Ice Cream & Desserts,Weikfield Tomato Salsa Instant Pasta,2500,0,1,2500,77,FALSE,77
-Ice Cream & Desserts,Nestlé CERELAC Baby Cereal with Milk,27200,0,1,27200,300,FALSE,300
+Ice Cream & Desserts,NestlÃ© CERELAC Baby Cereal with Milk,27200,0,1,27200,300,FALSE,300
 Ice Cream & Desserts,Remia Salad Caesar Dressing,25000,0,6,25000,250,FALSE,250
 Ice Cream & Desserts,Bagrrys Fruit N Fibre Muesli Mixed Fruit,33000,0,6,33000,500,FALSE,500
 Ice Cream & Desserts,MTR Paneer Butter Masala & Veg Pulao,17500,9,4,15800,375,FALSE,375
@@ -2163,7 +2163,7 @@ Chocolates & Candies,McCain Smiles Cripsy Happy Potatoes,12000,5,6,11400,415,FAL
 Chocolates & Candies,McCain Veggie Burger Patty,11500,3,6,11100,360,FALSE,360
 Chocolates & Candies,McCain Veggie Fingers,11700,5,6,11100,400,FALSE,400
 Chocolates & Candies,Amul Delicious Fat Spread - Cholesterol Free,1800,5,6,1700,100,FALSE,100
-Chocolates & Candies,Whiskas Wet  Meal (Adult - Cat Food)  Chicken in Gravy,3500,2,2,3400,85,FALSE,85
+Chocolates & Candies,Whiskas WetÂ  Meal (Adult - Cat Food)Â  Chicken in Gravy,3500,2,2,3400,85,FALSE,85
 Chocolates & Candies,McCain Chilli Garlic Potato Bites Crunchy Potato Nuggets,12500,5,1,11800,420,FALSE,420
 Chocolates & Candies,Ching's Secret Instant Hot Garlic Noodles,1500,0,3,1500,60,FALSE,60
 Chocolates & Candies,Veeba Eggless Mayonnaise,7900,11,5,7000,250,FALSE,250
@@ -2193,7 +2193,7 @@ Chocolates & Candies,Amul Cheese Spread Creamy,8500,5,6,8000,180,FALSE,180
 Chocolates & Candies,Maggi Imli Sauce Pichkoo,2200,0,6,2200,90,FALSE,90
 Chocolates & Candies,Whiskas Kitten (2-12 months) Dry Cat Food Food Ocean Fish,38500,9,5,34700,1100,FALSE,1100
 Chocolates & Candies,Chings Instant Soup - Sweet Corn Veg,1000,0,2,1000,15,FALSE,15
-Chocolates & Candies,Whiskas Wet  Meal (Kitten - Cat Food)  Chicken in Gravy,3500,5,2,3300,85,FALSE,85
+Chocolates & Candies,Whiskas WetÂ  Meal (Kitten - Cat Food)Â  Chicken in Gravy,3500,5,2,3300,85,FALSE,85
 Chocolates & Candies,McCain Crazy Fries Masala MixHot 'n' Tangy,12000,5,6,11400,400,FALSE,400
 Chocolates & Candies,The Whole Truth Double Cocoa Protein Bar No Sugar,10000,10,6,9000,52,FALSE,52
 Chocolates & Candies,Amul Happy Treats French Fries,6800,4,1,6500,425,FALSE,425
@@ -2221,7 +2221,7 @@ Chocolates & Candies,Sunfeast YiPPee! Noodles - Magic Masala,9600,5,4,9100,540,F
 Chocolates & Candies,Chef's Basket Durum Wheat Fusilli Pasta,16000,50,6,8000,500,FALSE,500
 Chocolates & Candies,Top Ramen Chicken Noodles,6000,10,1,5400,280,FALSE,280
 Chocolates & Candies,Veeba Cheese and Chilli Sandwich Spread,8900,11,6,7900,275,FALSE,275
-Chocolates & Candies,Ching’s Secret Chowmein Hakka Noodles Masala ,4400,0,2,4400,60,FALSE,60
+Chocolates & Candies,ChingÂ’s Secret Chowmein Hakka Noodles Masala ,4400,0,2,4400,60,FALSE,60
 Chocolates & Candies,Safal Frozen - Mixed Vegetables,11000,4,2,10500,1000,FALSE,1
 Chocolates & Candies,MTR 3 Min Poha,2500,0,6,2500,60,FALSE,60
 Chocolates & Candies,Ching's Manchurian Instant Noodles,1500,0,5,1500,60,FALSE,60
@@ -2306,7 +2306,7 @@ Chocolates & Candies,Godrej Yummiez Chilli Chicken Sausages ,16000,10,3,14400,25
 Chocolates & Candies,Pedigree Dentastix  Dog Treat Oral Care for Adult Medium Breed ,17500,20,6,14000,180,FALSE,180
 Chocolates & Candies,Maggi Hot & Sweet - Tomato Chilli Sauce,17000,10,1,15300,1000,FALSE,1
 Chocolates & Candies,Ching's Secret Asian Hot Instant Soup,1500,0,3,1500,15,FALSE,15
-Chocolates & Candies,Kellogg’s Chocos Protein And Fibre Of 1 Roti,49900,11,6,44400,1200,FALSE,1
+Chocolates & Candies,KelloggÂ’s Chocos Protein And Fibre Of 1 Roti,49900,11,6,44400,1200,FALSE,1
 Chocolates & Candies,Mother's Recipe Pickle - Mango,14900,26,4,10900,500,FALSE,500
 Chocolates & Candies,Chings Secret Manchurian Instant Noodle,6000,0,6,6000,240,FALSE,240
 Chocolates & Candies,Kellogg's Original Corn Flakes,31000,6,6,29000,875,FALSE,875
@@ -2474,7 +2474,7 @@ Chocolates & Candies,Yummiez Veg Cheese Fingers Pouch,23000,0,4,23000,400,FALSE,
 Chocolates & Candies,MTR Dal Makhani,11000,0,4,11000,300,FALSE,300
 Chocolates & Candies,MTR Ready to Eat Pav Bhaji,11000,0,6,11000,300,FALSE,300
 Chocolates & Candies,Weikfield Tomato Salsa Instant Pasta,2500,0,1,2500,77,FALSE,77
-Chocolates & Candies,Nestlé CERELAC Baby Cereal with Milk,27200,0,1,27200,300,FALSE,300
+Chocolates & Candies,NestlÃ© CERELAC Baby Cereal with Milk,27200,0,1,27200,300,FALSE,300
 Chocolates & Candies,Remia Salad Caesar Dressing,25000,0,6,25000,250,FALSE,250
 Chocolates & Candies,Bagrrys Fruit N Fibre Muesli Mixed Fruit,33000,0,6,33000,500,FALSE,500
 Chocolates & Candies,MTR Paneer Butter Masala & Veg Pulao,17500,9,4,15800,375,FALSE,375
@@ -2772,10 +2772,10 @@ Personal Care,Dettol Intense Cool Soap (B4G1),26000,5,6,24700,625,FALSE,625
 Personal Care,Livon Anti-Frizz Serum,25000,10,3,22500,100,FALSE,100
 Personal Care,Lifebuoy Germ Protection Care Soap Bar,3000,3,3,2900,100,FALSE,125
 Personal Care,Lux International Creamy White Soap Bar,7000,10,6,6300,125,FALSE,125
-Personal Care,Godrej Nupur – 100% Pure Henna (Mehendi),1000,0,6,1000,18,FALSE,18
+Personal Care,Godrej Nupur Â– 100% Pure Henna (Mehendi),1000,0,6,1000,18,FALSE,18
 Personal Care,Glow & Lovely Advanced Multivitamin Face Cream,21300,10,6,19000,110,FALSE,110
 Personal Care,Set Wet Style Vertical Hold Hair Gel,5000,10,4,4500,50,FALSE,50
-Personal Care,"Godrej Expert Rich Crème, Natural Black",3000,0,6,3000,20,FALSE,20
+Personal Care,"Godrej Expert Rich CrÃ¨me, Natural Black",3000,0,6,3000,20,FALSE,20
 Personal Care,Nycil Germ Expert Cool Herbal Talc,13000,8,1,11900,150,FALSE,200
 Personal Care,Godrej Expert Creme Hair Natural Brown Colour ,3000,0,6,3000,20,FALSE,20
 Personal Care,Veet Sensitive Skin Hair Removal Cream,13500,5,6,12800,50,FALSE,50
@@ -2783,7 +2783,7 @@ Personal Care,Closeup Everfresh+ Anti-Germ Gel Toothpaste Red Hot,5000,2,1,4900,
 Personal Care,Pears Pure And Gentle Value Pack Of 3 Bathing Soap,19900,6,5,18600,375,FALSE,375
 Personal Care,Gillette Presto Ready Shaver 5 Cartridges ,8800,6,6,8200,290,FALSE,5
 Personal Care,Closeup Everfresh+ Anti-Germ Gel Toothpaste Red Hot,16000,10,4,14400,300,FALSE,300
-Personal Care,"Godrej Expert Rich Crème, Dark Brown",3000,0,4,3000,20,FALSE,20
+Personal Care,"Godrej Expert Rich CrÃ¨me, Dark Brown",3000,0,4,3000,20,FALSE,20
 Personal Care,Nivea Soft Light Moisturizer for Face Hand & Body Non-Sticky Cream with Vitamin E & Jojoba Oil ,18500,15,3,15700,100,FALSE,100
 Personal Care,Fiama Gel Bar Celebration Pack Buy 4 Get 1 Free,29000,10,6,26100,625,FALSE,625
 Personal Care,Gillette Sensitive Shaving Foam,22500,6,4,21000,418,FALSE,418
@@ -2829,7 +2829,7 @@ Personal Care,Head & Shoulders Anti-Dandruff Smooth & Silky Shampoo,15000,0,4,15
 Personal Care,Clinic Plus Strength & Shine Shampoo With Egg Protein ,10500,0,2,10500,175,FALSE,175
 Personal Care,Engage M1 Perfume Spray for Men ,21000,7,6,19400,120,FALSE,120
 Personal Care,Tresemme Keratin Smooth Conditioner,38000,0,3,38000,340,FALSE,340
-Personal Care,"Garnier Color Naturals Crème Hair Color, Shade 5 Light Brown",18000,0,1,18000,100,FALSE,100
+Personal Care,"Garnier Color Naturals CrÃ¨me Hair Color, Shade 5 Light Brown",18000,0,1,18000,100,FALSE,100
 Personal Care,Origami Aloe Vera Wipes,7500,13,4,6500,25,FALSE,25
 Personal Care,"Engage Drizzle Deodorant For Women, Floral And Lavender, Skin Friendly",19500,10,6,17400,150,FALSE,150
 Personal Care,Gellette Presto Ready Shaver,2000,0,1,2000,58,FALSE,1
@@ -2842,7 +2842,7 @@ Personal Care,Gillete Mach3 ,26000,10,6,23400,116,FALSE,2
 Personal Care,Maybelline New York Colossal Kajal Black,14900,0,2,14900,0,FALSE,0
 Personal Care,Godrej Cinthol Lime Talc,5500,0,3,5500,100,FALSE,100
 Personal Care,Hamam Soap Bar Neem Tulsi and Aloe Vera,5800,0,6,5800,150,FALSE,150
-Personal Care,"Godrej Expert Rich Crème, Burgundy",3300,0,6,3300,20,FALSE,20
+Personal Care,"Godrej Expert Rich CrÃ¨me, Burgundy",3300,0,6,3300,20,FALSE,20
 Personal Care,Colgate Gentle Sensitive+ Toothbrush Pack Of 4,12000,10,4,10800,232,FALSE,4
 Personal Care,Nivea Creme All Season Multi-Purpose Cream ,17500,10,4,15700,100,FALSE,100
 Personal Care,Oral-B Charcoal Deep Clean Stain Removal Toothbrush Medium,9900,0,1,9900,232,FALSE,4
@@ -2858,7 +2858,7 @@ Personal Care,Pampers Premium Care Pants - Large,109900,18,2,89900,44,FALSE,44
 Personal Care,Nivea Women Deodorant Fresh Natural Long Lasting Freshness & 48h Protection,19900,20,2,15900,150,FALSE,150
 Personal Care,"L'Oreal Paris Excellence Creme Hair Color, 3 Dark Brown/Natural Darkest Brown",62000,0,6,62000,172,FALSE,172
 Personal Care,Patanjali Kesh Kanti Natural Hair Cleanser,7500,9,4,6800,200,FALSE,200
-Personal Care,Godrej No.1 Bathing Soap – Lime & Aloe Vera,14900,0,6,14900,600,FALSE,600
+Personal Care,Godrej No.1 Bathing Soap Â– Lime & Aloe Vera,14900,0,6,14900,600,FALSE,600
 Personal Care,Pantene Advanced Control Hair Fall Solution Shampoo,12000,6,5,11200,180,FALSE,180
 Personal Care,Veet Full Body Waxing Kit For Dry Skin,23500,7,6,21800,1160,FALSE,20
 Personal Care,Johnson's Baby Skincare Wipes,24500,9,6,22100,72,FALSE,72
@@ -3081,7 +3081,7 @@ Personal Care,Stayfree Secure Cottony Soft Cover Sanitary Pad (Regular) with Win
 Personal Care,Dabur Gulabari Premium Rose Water,4800,2,0,4700,120,TRUE,120
 Personal Care,Parachute Advansed Gold Coconut Hair Oil,21500,9,0,19400,400,TRUE,400
 Personal Care,Closeup Everfresh+ Anti-Germ Gel Toothpaste Red Hot,9000,10,0,8100,150,TRUE,150
-Personal Care,Godrej No.1 Bathing Soap – Lime & Aloe Vera,10000,16,0,8400,500,TRUE,100
+Personal Care,Godrej No.1 Bathing Soap Â– Lime & Aloe Vera,10000,16,0,8400,500,TRUE,100
 Personal Care,Sensodyne Sensitive Fresh Gel Toothpaste,11500,7,0,10600,75,TRUE,75
 Personal Care,Whisper Bindazzz Nights XL + Sanitary Pad,9000,0,0,9000,406,TRUE,7
 Personal Care,Whisper Choice Sanitary Pad ,3200,9,0,2900,406,TRUE,7
@@ -3116,10 +3116,10 @@ Paan Corner,Dettol Intense Cool Soap (B4G1),26000,5,6,24700,625,FALSE,625
 Paan Corner,Livon Anti-Frizz Serum,25000,10,3,22500,100,FALSE,100
 Paan Corner,Lifebuoy Germ Protection Care Soap Bar,3000,3,3,2900,100,FALSE,125
 Paan Corner,Lux International Creamy White Soap Bar,7000,10,6,6300,125,FALSE,125
-Paan Corner,Godrej Nupur – 100% Pure Henna (Mehendi),1000,0,6,1000,18,FALSE,18
+Paan Corner,Godrej Nupur Â– 100% Pure Henna (Mehendi),1000,0,6,1000,18,FALSE,18
 Paan Corner,Glow & Lovely Advanced Multivitamin Face Cream,21300,10,6,19000,110,FALSE,110
 Paan Corner,Set Wet Style Vertical Hold Hair Gel,5000,10,4,4500,50,FALSE,50
-Paan Corner,"Godrej Expert Rich Crème, Natural Black",3000,0,6,3000,20,FALSE,20
+Paan Corner,"Godrej Expert Rich CrÃ¨me, Natural Black",3000,0,6,3000,20,FALSE,20
 Paan Corner,Nycil Germ Expert Cool Herbal Talc,13000,8,1,11900,150,FALSE,200
 Paan Corner,Godrej Expert Creme Hair Natural Brown Colour ,3000,0,6,3000,20,FALSE,20
 Paan Corner,Veet Sensitive Skin Hair Removal Cream,13500,5,6,12800,50,FALSE,50
@@ -3127,7 +3127,7 @@ Paan Corner,Closeup Everfresh+ Anti-Germ Gel Toothpaste Red Hot,5000,2,1,4900,80
 Paan Corner,Pears Pure And Gentle Value Pack Of 3 Bathing Soap,19900,6,5,18600,375,FALSE,375
 Paan Corner,Gillette Presto Ready Shaver 5 Cartridges ,8800,6,6,8200,290,FALSE,5
 Paan Corner,Closeup Everfresh+ Anti-Germ Gel Toothpaste Red Hot,16000,10,4,14400,300,FALSE,300
-Paan Corner,"Godrej Expert Rich Crème, Dark Brown",3000,0,4,3000,20,FALSE,20
+Paan Corner,"Godrej Expert Rich CrÃ¨me, Dark Brown",3000,0,4,3000,20,FALSE,20
 Paan Corner,Nivea Soft Light Moisturizer for Face Hand & Body Non-Sticky Cream with Vitamin E & Jojoba Oil ,18500,15,3,15700,100,FALSE,100
 Paan Corner,Fiama Gel Bar Celebration Pack Buy 4 Get 1 Free,29000,10,6,26100,625,FALSE,625
 Paan Corner,Gillette Sensitive Shaving Foam,22500,6,4,21000,418,FALSE,418
@@ -3173,7 +3173,7 @@ Paan Corner,Head & Shoulders Anti-Dandruff Smooth & Silky Shampoo,15000,0,4,1500
 Paan Corner,Clinic Plus Strength & Shine Shampoo With Egg Protein ,10500,0,2,10500,175,FALSE,175
 Paan Corner,Engage M1 Perfume Spray for Men ,21000,7,6,19400,120,FALSE,120
 Paan Corner,Tresemme Keratin Smooth Conditioner,38000,0,3,38000,340,FALSE,340
-Paan Corner,"Garnier Color Naturals Crème Hair Color, Shade 5 Light Brown",18000,0,1,18000,100,FALSE,100
+Paan Corner,"Garnier Color Naturals CrÃ¨me Hair Color, Shade 5 Light Brown",18000,0,1,18000,100,FALSE,100
 Paan Corner,Origami Aloe Vera Wipes,7500,13,4,6500,25,FALSE,25
 Paan Corner,"Engage Drizzle Deodorant For Women, Floral And Lavender, Skin Friendly",19500,10,6,17400,150,FALSE,150
 Paan Corner,Gellette Presto Ready Shaver,2000,0,1,2000,58,FALSE,1
@@ -3186,7 +3186,7 @@ Paan Corner,Gillete Mach3 ,26000,10,6,23400,116,FALSE,2
 Paan Corner,Maybelline New York Colossal Kajal Black,14900,0,2,14900,0,FALSE,0
 Paan Corner,Godrej Cinthol Lime Talc,5500,0,3,5500,100,FALSE,100
 Paan Corner,Hamam Soap Bar Neem Tulsi and Aloe Vera,5800,0,6,5800,150,FALSE,150
-Paan Corner,"Godrej Expert Rich Crème, Burgundy",3300,0,6,3300,20,FALSE,20
+Paan Corner,"Godrej Expert Rich CrÃ¨me, Burgundy",3300,0,6,3300,20,FALSE,20
 Paan Corner,Colgate Gentle Sensitive+ Toothbrush Pack Of 4,12000,10,4,10800,232,FALSE,4
 Paan Corner,Nivea Creme All Season Multi-Purpose Cream ,17500,10,4,15700,100,FALSE,100
 Paan Corner,Oral-B Charcoal Deep Clean Stain Removal Toothbrush Medium,9900,0,1,9900,232,FALSE,4
@@ -3202,7 +3202,7 @@ Paan Corner,Pampers Premium Care Pants - Large,109900,18,2,89900,44,FALSE,44
 Paan Corner,Nivea Women Deodorant Fresh Natural Long Lasting Freshness & 48h Protection,19900,20,2,15900,150,FALSE,150
 Paan Corner,"L'Oreal Paris Excellence Creme Hair Color, 3 Dark Brown/Natural Darkest Brown",62000,0,6,62000,172,FALSE,172
 Paan Corner,Patanjali Kesh Kanti Natural Hair Cleanser,7500,9,4,6800,200,FALSE,200
-Paan Corner,Godrej No.1 Bathing Soap – Lime & Aloe Vera,14900,0,6,14900,600,FALSE,600
+Paan Corner,Godrej No.1 Bathing Soap Â– Lime & Aloe Vera,14900,0,6,14900,600,FALSE,600
 Paan Corner,Pantene Advanced Control Hair Fall Solution Shampoo,12000,6,5,11200,180,FALSE,180
 Paan Corner,Veet Full Body Waxing Kit For Dry Skin,23500,7,6,21800,1160,FALSE,20
 Paan Corner,Johnson's Baby Skincare Wipes,24500,9,6,22100,72,FALSE,72
@@ -3425,7 +3425,7 @@ Paan Corner,Stayfree Secure Cottony Soft Cover Sanitary Pad (Regular) with Wings
 Paan Corner,Dabur Gulabari Premium Rose Water,4800,2,0,4700,120,TRUE,120
 Paan Corner,Parachute Advansed Gold Coconut Hair Oil,21500,9,0,19400,400,TRUE,400
 Paan Corner,Closeup Everfresh+ Anti-Germ Gel Toothpaste Red Hot,9000,10,0,8100,150,TRUE,150
-Paan Corner,Godrej No.1 Bathing Soap – Lime & Aloe Vera,10000,16,0,8400,500,TRUE,100
+Paan Corner,Godrej No.1 Bathing Soap Â– Lime & Aloe Vera,10000,16,0,8400,500,TRUE,100
 Paan Corner,Sensodyne Sensitive Fresh Gel Toothpaste,11500,7,0,10600,75,TRUE,75
 Paan Corner,Whisper Bindazzz Nights XL + Sanitary Pad,9000,0,0,9000,406,TRUE,7
 Paan Corner,Whisper Choice Sanitary Pad ,3200,9,0,2900,406,TRUE,7
@@ -3469,7 +3469,7 @@ Home & Cleaning,Surf Excel Easy Wash Detergent Liquid,17000,0,6,16900,1000,FALSE
 Home & Cleaning,Uno Playing Card Game,14900,9,2,13500,58,FALSE,1
 Home & Cleaning,Chakaachak Mini Cloth Brush,4000,2,1,3900,58,FALSE,1
 Home & Cleaning,Chakaachak Super Scrub Pad (Pack of 3),3500,2,2,3400,174,FALSE,3
-Home & Cleaning,Colin Glass and Surface Cleaner Liquid Spray Regular,6200,6,5,5800,250,FALSE,250
+Home & Cleaning,ColinÂ Glass and Surface Cleaner Liquid Spray Regular,6200,6,5,5800,250,FALSE,250
 Home & Cleaning,Om Bhakti Cow Dung Cakes ,1600,0,6,1600,290,FALSE,5
 Home & Cleaning,Dettol Antiseptic Liquid,3300,0,4,3300,60,FALSE,60
 Home & Cleaning,Harpic Hygienic Toilet Cleaner Rim Block Citrus,8200,6,6,7700,26,FALSE,26
